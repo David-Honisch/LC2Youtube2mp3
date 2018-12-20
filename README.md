@@ -1,6 +1,6 @@
 <h1>LC2Youtube2mp3</h1>
 
-Based with many thanx by sources of:
+Source:
 http://letztechance.org
 
 Based with many thanx by sources of:
