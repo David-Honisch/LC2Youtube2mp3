@@ -1,11 +1,14 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0vjgy1nnxdp23lyi?svg=true)](https://ci.appveyor.com/project/moshfeu/y2mp3)
-[![Build Status](https://travis-ci.com/moshfeu/y2mp3.svg?branch=master)](https://travis-ci.com/moshfeu/y2mp3)
-[![Wallaby.js](https://img.shields.io/badge/wallaby.js-configured-green.svg)](https://wallabyjs.com)
-[![Release version](https://img.shields.io/github/release/moshfeu/y2mp3.svg)](https://github.com/moshfeu/y2mp3/releases/latest)
+<h1>LC2Youtube2mp3</h1>
+
+Based with many thanx by sources of:
+http://letztechance.org
+
+Based with many thanx by sources of:
+https://img.shields.io/github/release/moshfeu/
 
 <img src="app-resources/logo-128.png" alt="logo" />
 
-## What is "Y2Mp3" app?
+## What is "LC2Youtube2mp3" app?
 
 A simple desktop application to download Youtube videos to mp3, one by one or all of them.
 
@@ -24,7 +27,7 @@ Mp3 files will be saved to a **y2mp3** folder in the **Download** folder
 - Free 💰
 - No ads 📣
 
-Find your download: [https://github.com/moshfeu/y2mp3/releases/latest](https://github.com/moshfeu/y2mp3/releases/latest)
+Find your download: [https://github.com/David-Honisch/LC2Youtube2mp3](https://github.com/David-Honisch/LC2Youtube2mp3)
 
 ## Change log
 
