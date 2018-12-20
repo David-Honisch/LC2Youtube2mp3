@@ -1,0 +1,26 @@
+directories:
+  output: dist
+  buildResources: build
+appId: davidhonisch.LC2Youtube2mp3
+icon: faviconbig.ico
+files:
+  - filter:
+      - index.html
+      - main.js
+      - resources/**
+dmg:
+  icon: resources/icons/mac/icon.icns
+  contents:
+    - x: 110
+      'y': 150
+    - x: 240
+      'y': 150
+      type: link
+      path: /Applications
+linux:
+  target:
+    - AppImage
+  category: Music
+nsis:
+  installerIcon: favicon.ico
+electronVersion: 3.0.13

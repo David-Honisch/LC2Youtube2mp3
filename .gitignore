@@ -2,10 +2,4 @@
 node_modules
 downloads
 package-lock.json
-src/*.js*
-config.js
-dist
-resources
-maps
-coverage
-main.js
+
